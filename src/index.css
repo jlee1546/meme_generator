@@ -61,10 +61,12 @@ main {
 .form--image-container {
   position: relative;
   margin-top: 2rem;
+  text-align: center;
 }
 
 .form--image {
   border-radius: 3px;
+  width: 70%;
   max-width: 100%;
 }
 
